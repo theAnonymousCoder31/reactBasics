@@ -1,3 +1,5 @@
+// Working with Objects
+
 export default function ProductInfo() {
   const product = {
     name: "Laptop",
